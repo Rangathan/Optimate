@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CircularImageViewStyle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+    </style>
+
+    <style name="DonutChartStyle" parent="Widget.MaterialComponents.CircularProgressIndicator">
+        <item name="android:thicknessRatio">1.0</item> <!-- Change thickness as needed -->
+    </style>
+
+    <style name="CustomOutlinedBoxExposedDropdownMenu" parent="@style/Widget.Material3.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <!-- Override the default outline color -->
+        <item name="boxStrokeColor">@color/dark_purple</item>
+    </style>
+
+    <style name="CustomDatePickerStyle" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">
+        <!-- Customize other dialog properties if needed -->
+        <item name="android:windowMinWidthMajor">50%</item>
+        <item name="android:windowMinWidthMinor">50%</item>
+    </style>
+
+</resources>

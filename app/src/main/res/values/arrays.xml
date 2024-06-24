@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reasons_array">
+        <item>Sick day</item>
+        <item>Vacation paid</item>
+        <item>Unpaid leave</item>
+    </string-array>
+
+    <string-array name="language_array">
+        <item>English</item>
+    </string-array>
+    <string-array name="statusList">
+        <item>all</item>
+        <item>pending</item>
+        <item>approved</item>
+        <item>rejected</item>
+        <item>cancelled</item>
+    </string-array>
+    <string-array name="statusList1">
+        <item>all</item>
+        <item>pending</item>
+        <item>approved</item>
+        <item>rejected</item>
+    </string-array>
+</resources>

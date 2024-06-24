@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<com.google.android.material.card.MaterialCardView
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/availabilityCard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="?attr/materialCardViewElevatedStyle"
+    android:layout_margin="15dp">
+
+    <LinearLayout
+        android:layout_width="370dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- Title, secondary and supporting text -->
+        <TextView
+            android:id="@+id/employeeName1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="name"
+            android:textAppearance="?attr/textAppearanceTitleLarge" />
+
+       <TextView
+           android:id="@+id/availability"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="availability"
+           android:textAppearance="@style/TextAppearance.Material3.BodyMedium"
+           android:layout_marginStart="20dp"
+           >
+
+       </TextView>
+
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>
+</LinearLayout>

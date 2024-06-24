@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">Optimate</string>
+    <string name="optimate">OptiMate</string>
+    <string name="getStart">Get Started</string>
+    <string name="login">Log in</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgotPassword">Forgot password</string>
+    <string name="businessName">Business Name</string>
+    <string name="address">Address</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="continue1">Continue</string>
+    <string name="success">success</string>
+    <string name="hello">Hello,</string>
+    <string name="roles">Roles</string>
+    <string name="titlesIcon">titles icon</string>
+    <string name="accountsIcon">accounts icon</string>
+    <string name="scheduleIcon">schedule icon</string>
+    <string name="financesIcon">finances icon</string>
+    <string name="notificationsIcon">notifications icon</string>
+    <string name="requestsIcon">requests icon</string>
+    <string name="titles">Titles</string>
+    <string name="home">home</string>
+    <string name="add_title">Add Title</string>
+    <string name="manager_button">manager button</string>
+    <string name="employee_button">employee button</string>
+    <string name="clock_in">Clock In</string>
+    <string name="start_break">Start Break</string>
+    <string name="end_break">End Break</string>
+    <string name="clock_out">Clock Out</string>
+    <string name="clock">Clock</string>
+    <string name="view_history">View History</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="end_date_before_start_date_error">End date cannot be before start date!</string>
+    <string name="start_date_after_end_date_error">Start date cannot be after end date!</string>
+    <string name="all_day">All Day</string>
+    <string name="select_time">Select time:</string>
+    <string name="select_date">Select date:</string>
+    <string name="start_time">Start time</string>
+    <string name="end_time">End time</string>
+    <string name="select_reason">Select a reason</string>
+
+    <string name="selected_date">Selected date</string>
+    <string name="shift_or_no">Shift or no shift</string>
+    <string name="date_and_time_or_not_scheduled">Date and Time or not scheduled</string>
+    <string name="view_time_requests">View Time Requests</string>
+    <string name="request_time_off">Request time off</string>
+
+    <string name="netpayamount">amount</string>
+    <string name="taxesperpaystub">amount</string>
+    <string name="netpaypercentage">%</string>
+    <string name="taxespercentage">%</string>
+    <string name="employeeAddress">Address</string>
+    <string name="employeePhoneNumber">XXX-XXX-XXXX</string>
+    <string name="employeeWage">$0,000.00</string>
+
+
+    <string name="accounts">Accounts</string>
+    <string name="finances">Finances</string>
+    <string name="requests">Requests</string>
+    <string name="notifications">Notifications</string>
+    <string name="schedule">Schedule</string>
+    <string name="add_account">Add Account</string>
+    <string name="submit">Submit</string>
+    <string name="employee_email">Employee Email</string>
+    <string name="pick_a_title">Pick A Title</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="wage">Wage</string>
+    <string name="edit_account">Edit Account</string>
+    <string name="delete">delete</string>
+
+    <string name="modules">Choose Modules</string>
+    <string name="changePass">Change Password</string>
+
+
+    <string name="amount">$0.00</string>
+    <string name="module1">Basic</string>
+    <string name="module2">Plus</string>
+    <string name="module3">Financial Tracker</string>
+    <string name="module1price">$10.00</string>
+    <string name="module2price">$30.00</string>
+    <string name="module3price">$10.00</string>
+    <string name="payButton">Pay</string>
+    <string name="Paid">Paid</string>
+
+
+    <string name="reset">Reset</string>
+
+
+    <string name="Amount">Amount</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="title_activity_schedule_maker">ScheduleMakerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+    <string name="title_activity_schedule_planner">SchedulePlanner</string>
+    <string name="title_activity_add_shift_page">AddShiftPage</string>
+    <string name="clock_title">Clock In / Out</string>
+    <string name="already_clocked">Thank you!</string>
+    <string name="profile">Profile</string>
+    <string name="payroll">Payroll</string>
+    <string name="percent80">80%</string>
+    <string name="percent20">20%</string>
+    <string name="submit_an_expense">Submit an expense</string>
+    <string name="pay_stubs">Pay Stubs</string>
+    <string name="clock_in_out">Clock In / Out</string>
+    <string name="archive">Archive</string>
+    <string name="view_expenses">History</string>
+    <string name="details">Details</string>
+    <string name="expenses_submitted_year_to_date">Expenses submitted year to date:</string>
+    <string name="expenses_claimed_year_to_date">Expenses claimed year to date:</string>
+    <string name="not_scheduled_today">Not Scheduled Today!</string>
+    <string name="come_back_later">Please Come Back Later!</string>
+    <string name="msg_token_fmt">"Your FCM is: %1$s"</string>
+
+</resources>
